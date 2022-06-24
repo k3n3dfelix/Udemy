@@ -5,5 +5,5 @@ Repositório Criado para disponibilização dos conteúdos desenvolvidos nos cur
 <img src="https://github.com/k3n3dfelix/Udemy/blob/main/udemy.png"/>
 
 ## Cursos Desenvolvidos e Em Desenvolvimento
-. TypeScript do básico ao avançado (c/ React, Express) - Matheus Battisti - 42H - Em Desenvolvimento
+- TypeScript do básico ao avançado (c/ React, Express) - Matheus Battisti - 42H - <b> Em Desenvolvimento </b>
 
